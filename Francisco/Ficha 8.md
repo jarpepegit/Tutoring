@@ -182,11 +182,11 @@ $$\begin{split}\frac{d}{dx} G(x) &=\frac{d}{dx}\int_x^{x^3} f(tx,t^2+x^3)\,dt \\
 &=3x^2f(x^4,x^6+x^3)-f(x^2,x^2+x^3)+\int_{x}^{x^3} (t f_u(u,v) + 3x^2f_v(u,v) )\,dt .
 \end{split}$$
 
-Esto es una pruebita para ver si funcional lo que el copilot de github me dijo
+A ver, vamo a ver
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY5MDQwNjldfQ==
+eyJoaXN0b3J5IjpbNjIzNjkyMjIyXX0=
 -->
