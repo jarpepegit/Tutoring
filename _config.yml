@@ -1,6 +1,10 @@
 title: Tutoring
 markdown: kramdown
 kramdown:
-  input: GFM
   math_engine: mathjax
-theme: minima
+  math_engine_opts:
+    preview: false
+  parse_block_html: true
+  syntax_highlighter_opts:
+    disable: true
+  math_delimiters: dollar
