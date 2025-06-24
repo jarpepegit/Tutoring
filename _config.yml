@@ -1,4 +1,6 @@
+title: Tutoring
 markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
+theme: minima
