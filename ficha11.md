@@ -3,4 +3,4 @@ layout: default
 title: Ficha 11
 ---
 
-{% include_relative Francisco/Ficha%2011.md %}
+{% include_relative Francisco/Ficha 11.md %}
