@@ -1,3 +1,13 @@
+---
+title: "Ficha 8"
+disciplina: "Cálculo II"
+data: "2025-06-27"
+temas:
+  - Mudança de variáveis de integração.
+  - Regra de Leibniz
+descricão: "Colocar cá alguma coisa relevante."
+---
+
 # Ficha 8.
 
 ## Problema 2b)
@@ -188,5 +198,5 @@ A ver, vamo a ver
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNjkyMjIyXX0=
+eyJoaXN0b3J5IjpbLTQwMjU3NDMxNV19
 -->
