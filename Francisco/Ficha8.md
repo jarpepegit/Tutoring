@@ -1,4 +1,4 @@
----
+```
 title: "Ficha 8"
 disciplina: "Cálculo II"
 data: "2025-06-27"
@@ -6,7 +6,7 @@ temas:
   - Mudança de variáveis de integração.
   - Regra de Leibniz
 descricão: "Colocar cá alguma coisa relevante."
----
+```
 
 # Ficha 8.
 
@@ -192,11 +192,8 @@ $$\begin{split}\frac{d}{dx} G(x) &=\frac{d}{dx}\int_x^{x^3} f(tx,t^2+x^3)\,dt \\
 &=3x^2f(x^4,x^6+x^3)-f(x^2,x^2+x^3)+\int_{x}^{x^3} (t f_u(u,v) + 3x^2f_v(u,v) )\,dt .
 \end{split}$$
 
-A ver, vamo a ver
-
-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjU3NDMxNV19
+eyJoaXN0b3J5IjpbMTQzMjA5MzQzMl19
 -->
