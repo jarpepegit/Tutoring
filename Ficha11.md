@@ -1,6 +1,8 @@
 # Ficha 11
 
 ## Problema 1.
+Vamos a ver
+
 Considere o campo vetorial $F:\mathbb{R}^2\to\mathbb{R}^2$ definido por $F(x,y)=(-2y,x)$ e o conjunto 
 
 $$D=\{(x,y)\in\mathbb{R}^2 : x^2+y^2<1\,;\,y>\vert x\vert\}.$$ 
@@ -85,5 +87,5 @@ $$\begin{pmatrix}1 & 0 \\ 0 & 1\end{pmatrix}$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDY5NjAzOF19
+eyJoaXN0b3J5IjpbNTAzMzgzODkwXX0=
 -->
