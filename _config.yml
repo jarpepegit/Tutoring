@@ -2,7 +2,7 @@ title: Tutoring
 markdown: kramdown
 kramdown:
   input: GFM
-  math_engine: mathjax
+  math_engine: katex
   math_engine_opts:
     preview: false
   parse_block_html: true
